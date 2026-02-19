@@ -1,1 +1,2 @@
-# repositery du sit TEchniqueBTS
+# repository du site TechniqueBTS
+# Modification depuis le site GitHub
